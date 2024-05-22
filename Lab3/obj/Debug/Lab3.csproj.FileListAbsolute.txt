@@ -1,0 +1,6 @@
+D:\Education\4 sem\TCHI\3\code\Lab3\bin\Debug\Lab3.dll
+D:\Education\4 sem\TCHI\3\code\Lab3\bin\Debug\Lab3.pdb
+D:\Education\4 sem\TCHI\3\code\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Education\4 sem\TCHI\3\code\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Education\4 sem\TCHI\3\code\Lab3\obj\Debug\Lab3.dll
+D:\Education\4 sem\TCHI\3\code\Lab3\obj\Debug\Lab3.pdb
