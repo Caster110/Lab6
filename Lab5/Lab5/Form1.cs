@@ -36,7 +36,7 @@ namespace Lab5
             if (listBox1.SelectedIndex == -1 || transport.Count == 0)
                 return;
             transport.Remove(transport[listBox1.SelectedIndex]);
-            //listBox1.Items.Clear();                                !!!!!!!!!!
+            listBox1.Items.Clear();
             label2.Text = calculator.GetCost(transport).ToString();
             foreach (AbstractTransport transport in transport)
                 listBox1.Items.Add(transport.name + " (" + transport.ToString() + ") - " + transport.farePerKilometer * transport.reachedDistance);
