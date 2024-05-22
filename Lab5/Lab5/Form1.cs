@@ -40,6 +40,6 @@ namespace Lab5
             label2.Text = calculator.GetCost(transport).ToString();
             foreach (AbstractTransport transport in transport)
                 listBox1.Items.Add(transport.name + " (" + transport.ToString() + ") - " + transport.farePerKilometer * transport.reachedDistance);
-        }
+        }//
     }
 }
