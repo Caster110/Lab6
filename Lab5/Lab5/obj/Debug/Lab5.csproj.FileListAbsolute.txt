@@ -1,0 +1,15 @@
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\bin\Debug\Lab3.dll
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\bin\Debug\Lab3.pdb
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.csproj.Up2Date
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.Form2.resources
+D:\Education\4 sem\TCHI\3\code\Lab5\Lab5\obj\Debug\Lab5.Form3.resources
